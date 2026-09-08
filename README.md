@@ -1,2 +1,6 @@
-# Progetto-Intro-Sviluppo-
-Primo progetto start2impact Introduzione allo sviluppo
+# Progetto-Introduzione allo sviluppo- Hotel Pomelia Srl
+
+My first website built with HTML and CSS 
+
+# Github repository
+https://github.com/yatomon96/HotelPomeliaSrl
