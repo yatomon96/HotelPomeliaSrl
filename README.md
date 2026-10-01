@@ -2,12 +2,12 @@
 
 My first website built with HTML and CSS 
 
-#Technologies
-HTML5
-CSS3
+#Technologies:
+-HTML5
+-CSS3
 
-#Github Demo
-https://yatomon96.github.io/HotelPomeliaSrl/
+#Github Demo:
+-https://yatomon96.github.io/HotelPomeliaSrl/
 
 
 # Github repository
